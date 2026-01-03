@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhdan-shalahudin-12232b271)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhdanshalahudin@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=akhdansh1&color=blueviolet&style=flat-square)
+
 </div>
 
 ---
@@ -63,116 +65,214 @@
 
 ## 🌟 Featured Projects
 
-### 🎓 [Student Graduation Predictor](https://github.com/akhdansh1/student-graduation-predictor)
+<table>
+<tr>
+<td width="50%">
 
-Machine Learning model untuk memprediksi kelulusan mahasiswa menggunakan berbagai algoritma
+### 🎓 Student Graduation Predictor
 
-- 🐍 Built with Python & Scikit-learn
-- 📊 Data analysis and visualization
-- 🎯 Multiple ML algorithms comparison
-- 📈 Model evaluation & optimization
+Machine Learning model untuk memprediksi kelulusan mahasiswa
 
-### 🎵 [Who Are You By Music](https://github.com/akhdansh1/whoareyoubymusic)
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/akhdansh1/student-graduation-predictor)
 
-Web app yang mendeskripsikan personality user berdasarkan kebiasaan mendengarkan musik di Spotify
+**Tech:** Python • Scikit-learn • Pandas • Jupyter
 
-- 🎶 Spotify API integration
-- ⚡ JavaScript & Modern Web Tech
-- 🎨 Interactive & responsive UI
-- 🧠 Music-based personality analysis
+**Features:**
 
-### 🎼 [Spotify Recommender System](https://github.com/akhdansh1/spotify-recommender)
+- Multiple ML algorithms comparison
+- Data visualization & analysis
+- Model evaluation & optimization
 
-Sistem rekomendasi musik berbasis Machine Learning untuk personalized listening experience
+</td>
+<td width="50%">
 
-- 📊 Jupyter Notebook implementation
-- 🤖 Collaborative filtering & content-based algorithms
-- 🎧 Personalized music recommendations
-- 📈 Feature engineering dari audio characteristics
+### 🎵 Who Are You By Music
 
-### 💬 [Gemini AI Chatbot](https://github.com/akhdansh1/gemini-chatbot)
+Personality analysis berdasarkan Spotify listening habits
 
-AI-powered conversational chatbot menggunakan Google Gemini API
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/akhdansh1/whoareyoubymusic)
 
-- 🤖 Integrated with Gemini AI
-- 🐍 Flask backend architecture
-- 💬 Real-time conversation handling
-- 🎯 Context-aware responses
+**Tech:** JavaScript • Spotify API • Web
 
-### 📱 [T-Connect Digital Scale App](https://github.com/akhdansh1/T-Connect-Weighing-Digital-Scale-Mobile-Apps)
+**Features:**
 
-Flutter mobile app untuk timbangan digital industrial dengan konektivitas hardware
+- Spotify API integration
+- Interactive UI/UX
+- Music-based personality insights
 
-- 📲 Cross-platform Flutter development
-- 🔗 Bluetooth & USB connectivity
-- ⚖️ Real-time weight monitoring
-- 📊 Data logging & export features
+</td>
+</tr>
 
-### 🌐 [Portfolio Website](https://github.com/akhdansh1/akhdan-portofolio)
+<tr>
+<td width="50%">
 
-Personal portfolio website showcasing projects and professional journey
+### 🎼 Spotify Recommender
 
-- ⚛️ Modern web technologies
-- 🎨 Responsive & interactive design
-- 🚀 Deployed on Vercel
-- ✨ Smooth animations & transitions
+Music recommendation system dengan ML
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/akhdansh1/spotify-recommender)
+
+**Tech:** Python • ML Algorithms • Jupyter
+
+**Features:**
+
+- Collaborative filtering
+- Content-based recommendations
+- Audio feature engineering
+
+</td>
+<td width="50%">
+
+### 💬 Gemini AI Chatbot
+
+AI-powered conversational chatbot
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/akhdansh1/gemini-chatbot)
+
+**Tech:** Python • Flask • Gemini API
+
+**Features:**
+
+- Google Gemini AI integration
+- Real-time conversations
+- Context-aware responses
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 T-Connect Digital Scale
+
+Flutter app untuk industrial weighing
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/akhdansh1/T-Connect-Weighing-Digital-Scale-Mobile-Apps)
+
+**Tech:** Flutter • Dart • Bluetooth
+
+**Features:**
+
+- Bluetooth/USB connectivity
+- Real-time monitoring
+- Data logging & export
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal portfolio & project showcase
+
+[![Live](https://img.shields.io/badge/Live-Visit-green?style=flat-square&logo=vercel)](https://akhdan-portofolio.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/akhdansh1/akhdan-portofolio)
+
+**Tech:** React • Modern Web • Vercel
+
+**Features:**
+
+- Responsive design
+- Smooth animations
+- Project showcases
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhdansh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+### 📈 My Coding Journey
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhdansh1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhdansh1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akhdansh1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+|  📦 Total Projects   |  🔥 Active Since   |  💻 Primary Focus   |       🌟 Specialization       |
+| :------------------: | :----------------: | :-----------------: | :---------------------------: |
+| **18+ Repositories** | **2021 - Present** | **AI/ML & Web Dev** | **Full-Stack & Data Science** |
 
 </div>
 
----
+### 💡 What I Build:
 
-## 📈 Contribution Graph
+```python
+expertise = {
+    "AI/ML": ["Machine Learning", "Predictive Models", "Chatbots", "Recommender Systems"],
+    "Web Dev": ["React", "Flask", "REST APIs", "Responsive UI"],
+    "Mobile": ["Flutter", "Cross-platform", "Bluetooth/USB Integration"],
+    "Data": ["Data Analysis", "Visualization", "Statistical Modeling"]
+}
 
-<div align="center">
-
-[![Akhdan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhdansh1&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+current_focus = ["Advanced ML", "Music AI Apps", "IoT Solutions", "Portfolio Growth"]
+```
 
 ---
 
 ## 🎯 Key Achievements
 
-✅ **18+ Active Repositories** - Diverse portfolio dari AI/ML hingga mobile development  
-✅ **Educational Impact** - Student graduation predictor membantu academic planning  
-✅ **Music Innovation** - Multiple Spotify-integrated apps dengan unique features  
-✅ **AI Integration** - Successfully deployed Gemini AI chatbot dengan Flask backend  
-✅ **IoT Development** - Production-ready Flutter app dengan hardware connectivity  
-✅ **Full-Stack Capability** - End-to-end development dari backend hingga frontend  
-✅ **Deployed Projects** - Live applications di Vercel dan production environments
+<div align="center">
+
+| Achievement                    | Description                                               |
+| :----------------------------- | :-------------------------------------------------------- |
+| 🚀 **18+ Active Repositories** | Diverse portfolio dari AI/ML hingga mobile development    |
+| 🎓 **Educational Impact**      | Student graduation predictor membantu academic planning   |
+| 🎵 **Music Innovation**        | Multiple Spotify-integrated apps dengan unique features   |
+| 🤖 **AI Integration**          | Successfully deployed Gemini AI chatbot dengan Flask      |
+| 📱 **IoT Development**         | Production-ready Flutter app dengan hardware connectivity |
+| 💻 **Full-Stack**              | End-to-end development dari backend hingga frontend       |
+| 🌐 **Live Projects**           | Deployed applications di Vercel & production environments |
+
+</div>
 
 ---
 
 ## 💡 Currently Working On
 
-🔬 **Advanced ML Models** - Improving prediction accuracy untuk educational analytics  
-🎵 **Music AI Applications** - Developing sophisticated recommendation systems dengan Spotify API  
-🤖 **Conversational AI** - Enhancing Gemini chatbot capabilities dengan context-aware responses  
-📱 **IoT Mobile Solutions** - Expanding T-Connect app features untuk industrial weighing systems  
-🌐 **Portfolio Enhancement** - Building interactive showcases untuk technical projects  
-📊 **Data Visualization** - Creating insightful dashboards untuk predictive models
+```javascript
+const currentProjects = {
+  machineLearning: {
+    project: "Advanced ML Models",
+    focus: "Improving prediction accuracy untuk educational analytics",
+    tech: ["Python", "Scikit-learn", "TensorFlow"],
+  },
+
+  musicAI: {
+    project: "Sophisticated Recommendation Systems",
+    focus: "Spotify API integration dengan advanced algorithms",
+    tech: ["Python", "Spotify API", "ML Algorithms"],
+  },
+
+  conversationalAI: {
+    project: "Enhanced Gemini Chatbot",
+    focus: "Context-aware responses & better UX",
+    tech: ["Flask", "Gemini API", "Python"],
+  },
+
+  iotMobile: {
+    project: "T-Connect App Enhancement",
+    focus: "Expanding features untuk industrial weighing",
+    tech: ["Flutter", "Dart", "Bluetooth"],
+  },
+};
+```
+
+---
+
+## 🏆 Skills & Expertise
+
+<div align="center">
+
+### Core Competencies
+
+🎯 **Machine Learning & AI** • 🌐 **Full-Stack Development** • 📱 **Mobile Development**  
+📊 **Data Science** • 🎵 **API Integration** • 🔧 **IoT Solutions**
+
+### Learning & Growing
+
+🌱 Advanced Neural Networks • ☁️ Cloud Computing • 🐳 Docker & Containerization  
+🔄 CI/CD Pipelines • 📈 Advanced Data Visualization • 🎨 UI/UX Design
+
+</div>
 
 ---
 
@@ -185,7 +285,16 @@ Personal portfolio website showcasing projects and professional journey
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhdanshalahudin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhdan-portofolio.vercel.app)
 
-**💬 Open to collaborations and opportunities!**
+### 💬 Open for Collaborations & Opportunities!
+
+I'm always interested in working on innovative projects, especially those involving:
+
+- 🤖 AI/ML Applications
+- 🎵 Music & Audio Technology
+- 📱 Mobile Development
+- 🌐 Full-Stack Web Solutions
+
+**Feel free to reach out if you want to build something amazing together!**
 
 </div>
 
@@ -193,10 +302,12 @@ Personal portfolio website showcasing projects and professional journey
 
 <div align="center">
 
-### 💭 _"The best error message is the one that never shows up."_ – Thomas Fuchs
+### 💭 _"First, solve the problem. Then, write the code."_ – John Johnson
 
-![Profile Views](https://komarev.com/ghpvc/?username=akhdansh1&color=blueviolet&style=for-the-badge)
+<sub>Made with ❤️ by [Akhdan Shalahudin](https://github.com/akhdansh1)</sub>
 
-**⭐ From [akhdansh1](https://github.com/akhdansh1) with ❤️**
+---
+
+⭐️ **If you like my projects, consider giving them a star!** ⭐️
 
 </div>
